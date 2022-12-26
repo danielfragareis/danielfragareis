@@ -1,5 +1,10 @@
-### Hi there 👋
+### Olá! Eu sou o Daniel! 👋
 
+
+<header class="chart">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfragareis&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfragareis&layout=compact&langs_count=16&theme=yeblu"/>
+</header>
 <!--
 **danielfragareis/danielfragareis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
