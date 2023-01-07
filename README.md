@@ -28,7 +28,7 @@
 
 <!-- O runworkflow deve ser feito manualmente toda a vez que se deseja atualizar o numero de repositórios que serão usados no snake  -->
  
-![Snake animation](https://github.com/danielfragareis/danielfragareis/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/danielfragareis/danielfragareis/blob/output/github-contribution-grid-snake.gif)
  
  <!--
  
